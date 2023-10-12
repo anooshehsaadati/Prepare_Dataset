@@ -1,0 +1,6 @@
+path: C:/anoosheh/CP/Master/Thesis/Dataset/Dataset_under_Delta_robot_without_light_0_degree/Prepare_for_yolov8
+train: images/train 
+val: images/val  
+
+nc: 4
+names: ['red_cube', 'blue_cube', 'green_cube', 'yellow_cube']
