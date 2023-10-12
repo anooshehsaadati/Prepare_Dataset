@@ -11,3 +11,6 @@ helpful link for annotations:
 
 helpful link for converting:
 - https://github.com/computervisioneng/image-segmentation-yolov8
+
+helpful link for split train, test, val in folder with python:
+- https://stackoverflow.com/questions/53074712/how-to-split-folder-of-images-into-test-training-validation-sets-with-stratified
