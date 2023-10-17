@@ -14,3 +14,4 @@ helpful link for converting:
 
 helpful link for split train, test, val in folder with python:
 - https://stackoverflow.com/questions/53074712/how-to-split-folder-of-images-into-test-training-validation-sets-with-stratified
+- https://stackoverflow.com/questions/46717742/split-data-directory-into-training-and-test-directory-with-sub-directory-structu
