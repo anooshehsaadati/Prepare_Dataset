@@ -2,5 +2,5 @@ path: C:/anoosheh/CP/Master/Thesis/Dataset/Dataset_under_Delta_robot_without_lig
 train: images/train 
 val: images/val  
 
-nc: 4
-names: ['red_cube', 'blue_cube', 'green_cube', 'yellow_cube']
+nc: 5
+names: ['red_cube', 'blue_cube', 'green_cube', 'yellow_cube', 'hand']
